@@ -136,4 +136,3 @@ TROUBLESHOOTING
 ====================================================
 
 DNS Tool Pro
-Developed by Aryogen Pharmed Co - IT Department
