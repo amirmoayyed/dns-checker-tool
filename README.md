@@ -67,6 +67,10 @@ The tool will:
 - Resolve domain records
 - Measure response time (latency)
 
+<img width="528" height="249" alt="Untitled" src="https://github.com/user-attachments/assets/f8a6328a-557c-45fe-989b-614bb0b60a50" />
+
+
+
 Step 4: View results
 --------------------
 Results are shown in a table with:
@@ -93,6 +97,8 @@ Step 6: Restart or Exit
 After completion:
 - Press ENTER → Run again
 - Press ESC → Exit application
+<img width="963" height="1035" alt="Untitled" src="https://github.com/user-attachments/assets/383b2afa-e9ef-4b26-9cfd-08f4ccf705c2" />
+
 
 ====================================================
 
@@ -118,6 +124,9 @@ IMPORTANT:
 - One IP per line only
 - Do not leave empty or invalid lines
 - Invalid DNS entries may slow down or affect results
+
+<img width="288" height="548" alt="image" src="https://github.com/user-attachments/assets/7714b405-562b-4c10-9801-449d504ec92d" />
+
 
 ====================================================
 
