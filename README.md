@@ -8,12 +8,12 @@ This tool helps you quickly analyze and compare multiple DNS servers in real-wor
 
 It allows you to:
 
-Test multiple DNS servers at the same time
-Check different DNS record types (A, MX, AAAA, CNAME, NS, TXT, SOA)
-Compare DNS response performance and latency
-Identify slow or non-responsive DNS servers
-Use a customizable DNS list via dns.txt
-Run in both Portable and Installer versions for easy use
+Test multiple DNS servers at the same time ;
+Check different DNS record types (A, MX, AAAA, CNAME, NS, TXT, SOA) ;
+Compare DNS response performance and latency ;
+Identify slow or non-responsive DNS servers ;
+Use a customizable DNS list via dns.txt ;
+Run in both Portable and Installer versions for easy use ;
 
 ====================================================
 
