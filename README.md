@@ -2,7 +2,7 @@ DNS Tool Pro
 User Guide (README)
 
 ====================================================
-What this tool can do
+-What this tool can do
 
 This tool helps you quickly analyze and compare multiple DNS servers in real-world troubleshooting scenarios.
 
